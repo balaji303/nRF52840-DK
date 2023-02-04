@@ -1,7 +1,7 @@
 # nRF52840-DK
 Nordic Semi's nRF52840-DK
-![DK-Overview](https://github.com/balaji303/nRF52840-DK/blob/main_Dev/docs/nrf9160-dk-board.jpg)
-![PinOut](https://github.com/balaji303/nRF52840-DK/blob/main_Dev/docs/drawing_nRF52840DK.png)
+![DK-Overview](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nrf9160-dk-board.jpg)
+![PinOut](https://github.com/balaji303/nRF52840-DK/blob/main/docs/drawing_nRF52840DK.png)
 
 ## Some Important websites
 -----
