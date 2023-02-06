@@ -1,10 +1,14 @@
-# nRF52840-DK
+# nRF52840-DK 
 Nordic Semi's nRF52840-DK
+
+## Images for Quick Reference
+
 <img src="https://raw.githubusercontent.com/balaji303/nRF52840-DK/main/docs/nrf9160-dk-board.jpg" alt="nrf52840-DK" class="inline"/>
-![PinOut](https://github.com/balaji303/nRF52840-DK/blob/main/docs/drawing_nRF52840DK.png)
+
+<img src="https://raw.githubusercontent.com/balaji303/nRF52840-DK/main/docs/drawing_nRF52840DK.png" alt="PinOut-nrf52840-DK" class="inline"/>
 
 ## Some Important websites
------
+
 - [Mouser](https://www.mouser.in/ProductDetail/Nordic-Semiconductor/nRF52840-DK?qs=F5EMLAvA7IA76ZLjlwrwMw%3D%3D)
 - [nRF52840 Product Spec](https://www.mouser.in/datasheet/2/297/nRF52840_PS_v1.1-1623672.pdf)
 - [Intro](https://infocenter.nordicsemi.com/topic/ug_nrf52840_dk/UG/dk/intro.html)
@@ -17,5 +21,6 @@ Nordic Semi's nRF52840-DK
 - [Tutorial](https://www.pic-control.com/nrf52840-dk-ble-bluetooth-development-kit-tutorial-start-up-guide/)
 
 ## Softwares Used
+
 - [nRF-Connect-SDK](https://www.nordicsemi.com/Products/Development-software/nRF-Connect-SDK)
 - [nRF Connect for VS Code](https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-VS-Code)
