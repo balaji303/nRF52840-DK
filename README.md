@@ -21,6 +21,7 @@ This repository contains resources and example code for the Nordic Semi's nRF528
 
 ## Additional websites
 
+- [HTML Doc](https://infocenter.nordicsemi.com/topic/struct_nrf52/struct/nrf52840.html)
 - [Mouser](https://www.mouser.in/ProductDetail/Nordic-Semiconductor/nRF52840-DK?qs=F5EMLAvA7IA76ZLjlwrwMw%3D%3D)
 - [Getting Started](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-DK/GetStarted?lang=en)
 - [SOC - Getting Started](https://www.nordicsemi.com/products/nrf52840/getstarted)
