@@ -19,6 +19,15 @@ This repository contains resources and example code for the Nordic Semi's nRF528
 - [SDK-Overview](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nrf_connect_sdk_-_latest_10-24-2023.pdf)
 - [User Guide](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nRF52840_DK_User_Guide_v1.4.1.pdf)
 
+## Basic Projects
+
+- [001_LED_All_Blink](https://github.com/balaji303/nRF52840-DK/blob/main/EmbeddedStudio_WS/Balaji303/nrf52840_code/001_LED_All_Blink/main.c)
+- [002_LED_Button_Blink](https://github.com/balaji303/nRF52840-DK/blob/main/EmbeddedStudio_WS/Balaji303/nrf52840_code/002_LED_Button_Blink/main.c)
+- [003_UART_Tx](https://github.com/balaji303/nRF52840-DK/blob/main/EmbeddedStudio_WS/Balaji303/nrf52840_code/003_UART_Tx/main.c)
+- [004_UART_TxRx](https://github.com/balaji303/nRF52840-DK/blob/main/EmbeddedStudio_WS/Balaji303/nrf52840_code/004_UART_TxRx/main.c)
+- [blinky](https://github.com/balaji303/nRF52840-DK/blob/main/EmbeddedStudio_WS/Balaji303/nrf52840_code/blinky/main.c)    
+
+
 ## Additional websites
 
 - [HTML Doc](https://infocenter.nordicsemi.com/topic/struct_nrf52/struct/nrf52840.html)
@@ -41,4 +50,6 @@ This repository contains resources and example code for the Nordic Semi's nRF528
 - [nRF Connect for VS Code](https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-VS-Code)
 
 
-Schematics in ZIP file
+## Note:
+
+1. Make Sure you use NRF52-SDK as shown in the image ./docs/SES_WS.png
