@@ -1,4 +1,13 @@
-
+/**
+ * @file main.c
+ * @author @balaji303 (https://github.com/balaji303)
+ * @brief Serial Communication using UART
+ * @version 1
+ * @date 08-11-2023
+ * 
+ * Copyright (c) 2023 @balaji303
+ * 
+ */
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdio.h>

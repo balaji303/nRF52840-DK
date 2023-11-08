@@ -1,5 +1,13 @@
-
-
+/**
+ * @file main.c
+ * @author @balaji303 (https://github.com/balaji303)
+ * @brief LED Blink using UART Rx and Tx
+ * @version 1
+ * @date 08-11-2023
+ * 
+ * Copyright (c) 2023 @balaji303
+ * 
+ */
 
 /*Note: Have This project near to the root dir*/
 #include <stdbool.h>
