@@ -18,6 +18,7 @@ This repository contains resources and example code for the Nordic Semi's nRF528
 - [Product Specification](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nRF52840_PS_v1.1-1623672.pdf)
 - [SDK-Overview](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nrf_connect_sdk_-_latest_10-24-2023.pdf)
 - [User Guide](https://github.com/balaji303/nRF52840-DK/blob/main/docs/nRF52840_DK_User_Guide_v1.4.1.pdf)
+- [Useful Youtube Channel](https://www.youtube.com/@nrf5dev)
 
 ## Basic Projects
 
