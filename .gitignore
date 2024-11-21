@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/DeviceDownload
+/EmbeddedStudio_WS/components
+/EmbeddedStudio_WS/config
+/EmbeddedStudio_WS/documentation
+/EmbeddedStudio_WS/examples
+/EmbeddedStudio_WS/external
+/EmbeddedStudio_WS/external_tools
+/EmbeddedStudio_WS/integration
+/EmbeddedStudio_WS/modules
+/EmbeddedStudio_WS/license.txt
+/EmbeddedStudio_WS/nRF_MDK_8_27_0_IAR_NordicLicense.msi
+/EmbeddedStudio_WS/nRF_MDK_8_27_0_Keil4_NordicLicense.msi
